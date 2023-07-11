@@ -1,0 +1,19 @@
+{
+  "name": "aboyzy_blogstatic",
+  "version": "1.0.0",
+  "description": "博客静态资源",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aboyzy/pic_tuchuang.git"
+  },
+  "author": "aboyzy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aboyzy/pic_tuchuang/issues"
+  },
+  "homepage": "https://github.com/aboyzy/pic_tuchuang#readme"
+}

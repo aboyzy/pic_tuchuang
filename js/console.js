@@ -62,7 +62,7 @@ function createtime2() {
             "color:white; background-color:#10bcc0",
             "",
             "",
-            'background:url("https://jsd.cdn.zzko.cn/gh/aboyzy/pic_tuchuang@main/img/202301071158211.png") no-repeat;font-size:450%'
+            'background:url("https://fastly.jsdelivr.net/gh/aboyzy/pic_tuchuang@main/img/202301071158211.png") no-repeat;font-size:450%'
         )
     );
 

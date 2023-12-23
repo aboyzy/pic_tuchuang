@@ -33,7 +33,7 @@ if (document.body.clientWidth > 992) {
                 zoom: 0.9,
                 borderRadius: 5 + 'px',
                 right: 60 + 'px',
-                nekoImg: "http://unpkg.com/aboyzy_blogstatic/img/zypicximage.2a8mrh0p4vpc.webp",
+                nekoImg: "https://jsd.cdn.zzko.cn/gh/aboyzy/pic_tuchuang@main/img/zypicximage.2a8mrh0p4vpc.webp",
                 hoverMsg: "喵喵喵~",
                 color: "#6f42c1",
                 during: 500,
